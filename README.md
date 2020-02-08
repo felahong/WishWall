@@ -1,5 +1,5 @@
 # WishWall
-基于WAMP、MVC和Yii的许愿墙项目
+一个基于WAMP、MVC和YII的许愿墙项目
 
 # 项目介绍
 ## 前端
